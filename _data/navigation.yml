@@ -1,0 +1,18 @@
+
+
+# main links
+main:
+  - title: "Downloads"
+    url: /downloads/
+  - title: "News"
+    url: /news/
+  - title: "About"
+    url: /about/
+
+
+# documentation links
+#downloads:
+#  - title: Downloading ARCADE
+#    children:
+#      - title: "Downloads"
+#        url: /downloads/
